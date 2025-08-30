@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1, Test Channel
+#EXTVLCOPT:http-origin=https://jxoxkplay.xyz
+#EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=sec-ch-ua:"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"
+#EXTVLCOPT:http-header=sec-ch-ua-mobile:?0
+#EXTVLCOPT:http-header=sec-ch-ua-platform:"Windows"
+https://windnew.newkso.ru/wind/premium124/mono.m3u8
