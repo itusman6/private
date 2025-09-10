@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Geo_News_logo.png" group-title="Pakistan", GEO News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c70965dd6e0138bba0e754a782ba76:4f78ca41cda11fb207631815f0d414f4
+https://live.shoq.com.pk/live/eds/Geo_News/DASH/Geo_News.mpd
