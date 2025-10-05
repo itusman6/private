@@ -68,12 +68,8 @@ http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
 http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
 #EXTINF:-1, &PRIVE HD 195.181.169.162
 http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Information",HINDI NATIONAL GEOGRAPHIC HD SunDirectHD
-http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 #EXTINF:-1 tvg-id="National Geographic SD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png" group-title="Information",National Geographic SD
 http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Information",HINDI NAT GEO WILD HD DishTV
-http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 #EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 TataPlay DTH
 http://filex.me:8080/998866/998866/512328
 #EXTINF:-1, SONY HD 195.181.169.162
@@ -97,3 +93,4 @@ http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+
