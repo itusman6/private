@@ -50,47 +50,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Movies",English &Flix SD PeoTV Go
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
-#EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuZjxLgvMvySCF2rW7q1Bs1hrMvGHZT7EsQkssAMfl1bEyrEwqPdPIFw&s=10" group-title="Entertainment",Zee Cafe SD Nettv
-https://live.dinesh29.com.np/stream/livetv/zeecafehd/master.m3u8
-#EXTINF:-1, ZEE ZEST HD 195.181.169.162
-http://195.181.169.162:80/LIVING_FOODZ_HD/index.mpd?token=test
-#EXTINF:-1, ZEE CAFE HD 195.181.169.162
-http://195.181.169.162:80/ZEE_CAFE_HD/index.mpd?token=test
-#EXTINF:-1, ZEE TV HD 195.181.169.162
-http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
-#EXTINF:-1, &TV HD 195.181.169.162
-http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
-#EXTINF:-1, &PICTURES HD 195.181.169.162
-http://195.181.169.162:80/AND_PICTURES_HD/index.mpd?token=test
-#EXTINF:-1, ZEE CINEMA HD 195.181.169.162
-http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
-#EXTINF:-1, &FLIX HD 195.181.169.162
-http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
-#EXTINF:-1, &PRIVE HD 195.181.169.162
-http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
-#EXTINF:-1 tvg-id="National Geographic SD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png" group-title="Information",National Geographic SD
-http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
-#EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 TataPlay DTH
-http://filex.me:8080/998866/998866/512328
-#EXTINF:-1, SONY HD 195.181.169.162
-http://195.181.169.162:80/SONY_HD/index.mpd?token=test
-#EXTINF:-1, SONY SAB HD 195.181.169.162
-http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
-#EXTINF:-1, SONY MAX HD 195.181.169.162
-http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
-#EXTINF:-1, SONY SPORTS 3 HD 195.181.169.162
-http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
-#EXTINF:-1, SONY SPORTS 1 HD 195.181.169.162
-http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
-#EXTINF:-1, SONY SPORTS 2 HD 195.181.169.162
-http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
-#EXTINF:-1, SONY PIX HD ENGLISH 195.181.169.162
-http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
-#EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
-http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
 #EXTINF:-1, SONY MAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+
 
