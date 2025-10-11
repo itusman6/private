@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6253,3 +6252,4 @@ https://get.perfecttv.net/stream.ts?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/okayru.mpd?id=10773849574095
 #EXTINF:-1 tvg-id="" tvg-name="896-Blood Brothers: Dragon's Embers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR6IwU2ZfVuzg3mzh06XwlsDiCR.jpg" group-title="▶ VOD MALAY",896-Blood Brothers: Dragon's Embers (2025)(MultiResolution)
 https://get.perfecttv.net/okayru.mpd?id=10770460904143
+
