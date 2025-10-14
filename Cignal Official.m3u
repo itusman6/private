@@ -394,6 +394,33 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
 
+#EXTINF:-1 tvg-id="HBO East" tvg-name="HBO East" group-title="HBO",HBO East
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bdc1f521ad0e88f51af542b19454d78:99e62abbd065325315dbe992fe81d5a6
+https://cdn-ec-njs-353.linear-tve-smf-cla.top.comcast.net/HBOHD_HD_TVE_15152_0_5472624192174078163.mpd
+
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" group-title="HBO",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aecd5d8e3cf8c3efa4d968c2cbc999a1:b005dcd21d24c4a37ed9b353400477a8
+https://cdn-ec-njs-10.linear-tve-smf-cla.top.comcast.net/HBO2H_HD_TVE_16733_0_8374288733703765163.mpd
+
+#EXTINF:-1 tvg-id="HBO Drama" tvg-name="HBO Drama" group-title="HBO",HBO Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3043f5b74efeb72214f12e97ddcb27bb:966e84a58faf67537e8598529fc6fadb
+https://cdn-ec-njs-357.linear-tve-dcf-cla.top.comcast.net/HBOSH_HD_TVE_16735_0_8375494334279190163.mpd
+
+#EXTINF:-1 tvg-id="HBO Comedy" tvg-name="HBO Comedy" group-title="HBO",HBO Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff3334783e9bf06a3e42eaccaef3ca6f:d2851d4ca63e7f6079616cf762c343e7
+https://cdn-ec-njs-354.linear-tve-dcf-cla.top.comcast.net/HBOCH_HD_TVE_16736_0_7383390136505788163.mpd
+
+#EXTINF:-1 tvg-id="HBO Movies" tvg-name="HBO Movies" group-title="HBO",HBO Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a15d4832bf3cf5d316f4193c36a71e26:6b2d755f0fd493c48bcf780d9a107797
+https://cdn-ec-njs-350.linear-tve-smf-cla.top.comcast.net/HBOZH_HD_TVE_16845_0_5890461272720302163.mpd
+
+
 #EXTM3U billed-msg="SalvadorArchives25 Property, 6-CIMATTI! "
+
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
