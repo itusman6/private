@@ -176,6 +176,9 @@ http://139.99.60.114:14052/
 http://139.99.60.114:14058/
 #EXTINF:-1 tvg-name="HBO Signature" group-title="Movies",HBO Signature
 http://38.91.102.49:64032/
+#EXTINF:-1 tvg-name="Wild Nature" group-title="Documentary",Wild Nature
+https://dg5rg8emlfy55.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/55f42503-8c44-4d7b-955d-4ca709a71a47/0.m3u8
+
 
 
 
