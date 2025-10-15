@@ -170,6 +170,12 @@ http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1062.ts
 http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/744.ts
 #EXTINF:-1,& PRIVE HD
 http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/481.ts
+#EXTINF:-1 tvg-name="Hits Now" group-title="Music",Hits Now
+http://139.99.60.114:14052/
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Documentary",Discovery Channel
+http://139.99.60.114:14058/
+#EXTINF:-1 tvg-name="HBO Signature" group-title="Movies",HBO Signature
+http://38.91.102.49:64032/
 
 
 
