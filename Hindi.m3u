@@ -178,6 +178,17 @@ http://139.99.60.114:14058/
 http://38.91.102.49:64032/
 #EXTINF:-1 tvg-name="Wild Nature" group-title="Documentary",Wild Nature
 https://dg5rg8emlfy55.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/55f42503-8c44-4d7b-955d-4ca709a71a47/0.m3u8
+#EXTINF:-1 tvg-id="ANIMAL_PLANET" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTARY",ANIMAL PLANET
+https://tplay-vivek.vercel.app/play.m3u8?id=287
+#EXTINF:-1 tvg-id="MN_PLUS" tvg-name="MN+" tvg-logo="" group-title="ENTERTAINMENT",MN+
+https://tplay-vivek.vercel.app/play.m3u8?id=210
+#EXTINF:-1 tvg-id="DISCOVERY_TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="DOCUMENTARY",DISCOVERY TURBO
+https://tplay-vivek.vercel.app/play.m3u8?id=228
+#EXTINF:-1 tvg-id="STAR_GOLD_HD" tvg-name="STAR GOLD HD" tvg-logo="" group-title="ENTERTAINMENT",STAR GOLD HD
+https://tplay-vivek.vercel.app/play.m3u8?id=245
+#EXTINF:-1 tvg-id="SONY_PIX" tvg-name="Sony Pix" tvg-logo="" group-title="ENTERTAINMENT",Sony Pix
+https://tplay-vivek.vercel.app/play.m3u8?id=32
+
 
 
 
