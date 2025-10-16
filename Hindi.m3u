@@ -188,6 +188,9 @@ https://tplay-vivek.vercel.app/play.m3u8?id=228
 https://tplay-vivek.vercel.app/play.m3u8?id=245
 #EXTINF:-1 tvg-id="SONY_PIX" tvg-name="Sony Pix" tvg-logo="" group-title="ENTERTAINMENT",Sony Pix
 https://tplay-vivek.vercel.app/play.m3u8?id=32
+#EXTINF:-1 tvg-id="DD_Sports" tvg-name="DD Sports" tvg-logo="" group-title="SPORTS",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+
 
 
 
