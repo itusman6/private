@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1, Hits Now
+http://139.99.60.114:14052/
+
+#EXTINF:-1, Discovery Channel
+http://139.99.60.114:14058/
+
+#EXTINF:-1, HBO Signature
+http://38.91.102.49:64032/
+
 #EXTINF:-1, HBO Comedy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
