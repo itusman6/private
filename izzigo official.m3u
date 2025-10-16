@@ -454,28 +454,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf
 #KODIPROP:inputstream.adaptive.license_key={"620e51b82596475517a27aa425c52280":"2b9ba811e9c5aeafc8ae1b71cdca4d6a"}
 https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/YFqZSdn.png", SPOTV PRIME
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://s-p-o-t-v.b-cdn.net/license?cid=prime
-http://mc-3ld0u4nrvi.bunny.run/spotprime/dopamine/master.m3u8
-
-
-#EXTINF:-1, tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/8b3a24e8f2e7e5a5d591d94e1420990d.png", SPOTV PRIME 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://s-p-o-t-v.b-cdn.net/license?cid=prime2
-http://mc-3ld0u4nrvi.bunny.run/spotprime2/dopamine/master.m3u8
-
-#EXTINF:-1, tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png", SPOTV PRIME PLUS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://s-p-o-t-v.b-cdn.net/license?cid=primeplus
-http://mc-3ld0u4nrvi.bunny.run/spotprimeplus/dopamine/master.m3u8
-
 #EXTINF:-1, Sky Sports Main Event
 https://topstream.space/crhd/stream.php?id=skysme
 
