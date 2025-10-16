@@ -1,0 +1,96 @@
+#EXTM3U 
+#EXTINF:-1 " tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/wEvlUSk7FxHZD0M0cIXIi_apmGI=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/146/vidio-nonton-gratis-8a98d6.png" group-title="ข้อมูล", อัพทุก24ชม
+https://playidtv.vercel.app/
+#EXTINF:-1 " tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/LoyKatong_IconTV.png" group-title="ข้อมูล", (05:06)(2/2/24)
+https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/BQdq7_9MOklqngtkv/videoblocks-61dc77e29afa4f098010ed94_rwzecn-ak__7cb6c27a74e0204cc321dc71b4a076b0__P360.mp4
+#EXTINF:-1 tvg-id="thaichaiyo.tv" tvg-logo="https://www.zabzaa.com/tv/wp-content/uploads/2015/06/thaichaiyo.jpg" group-title="Music", THAI CHAIYO
+https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
+#EXTINF:-1 tvg-id="Newtm" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/NEW_TM.png" group-title="AISPLAYTV", NEW TM
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
+#EXTINF:-1 tvg-id="CoolChannel.th" tvg-name="Cool Channel" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="หนังภาพยนตร์ ",Cool Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="" tvg-name="" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png" group-title="TV DIGITAL",YATEEM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidturl1.github.io/epgtv/ch/PremierHD1_chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidturl1.github.io/epgtv/ch/PremierHD2_chunklist.m3u8
+#https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMDSSwjL9QkWeG_ziGqHFYSg/.m3u8
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidturl1.github.io/epgtv/ch/PremierHD3_chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidturl1.github.io/epgtv/ch/PremierHD4_chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidturl1.github.io/epgtv/ch/PremierHD5_chunklist.m3u8
+#EXTINF:-0 group-title="3BBTV" tvg-id="hbo.th" tvg-logo="https://hometv.pw/logo/movies/hbo.png", HBO TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+#EXTINF:-0 group-title="หนังภาพยนตร์" tvg-id="" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png", Channel 8 THAILAND
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png" group-title="สถานีทองถิ่นไทย", mounchontv
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="สถานีทองถิ่นไทย", chiangrai
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+https://tv-playidtvs-projects.vercel.app/mac/assp1mac.m3u8
+https://playidtv.vercel.app/my/astro1.m3u8
+https://playidtv.vercel.app/my/astro2.m3u8
+https://playidtv.vercel.app/my/astro3.m3u8
+https://playidtv.vercel.app/my/astro4.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 group-title="JAPAN" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi 540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 540
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#Kansai
+#EXTINF:-1 group-title="JAPAN"  tvg-id="nhkgosaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="JAPAN"  tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#BS
+#EXTINF:-1 group-title="JAPAN"  tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="JAPAN"  tvg-id="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP 4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="JAPAN"  tvg-id="bsfuji" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="JAPAN"  tvg-id="wowowlive" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png", WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="JAPAN"  tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+#######MY| Malaysia####
+#EXTM3U
+#EXTINF:-1 tvg-id="TV1.My" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV1-200x112.png" group-title="MY | MALAYSIA",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="TV2.My" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV2-200x112.png" group-title="MY | MALAYSIA",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 group-title="MY | MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV3-200x112.png",TV3
+https://playidtv.vercel.app/my/index.m3u8
+#EXTINF:-1 tvg-id="TV6.My" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV6-200x112.png" group-title="MY | MALAYSIA",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+#EXTINF:-1 tvg-id="TV9.My" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV9-200x112.png" group-title="MY | MALAYSIA", TV9 (Unifi)
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+#EXTINF:-1 tvg-id="Okey.My" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/TV-Okey-200x112.png" group-title="MY | MALAYSIA",Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 tvg-id="BertiaRTM.My" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Bernama-TV-200x112.png" group-title="MY | MALAYSIA",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
+#EXTINF:-1 tvg-id="SukanRTM.My" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Sukan-RTM-200x112.png" group-title="MY | MALAYSIA",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
