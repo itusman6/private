@@ -453,3 +453,98 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"620e51b82596475517a27aa425c52280":"2b9ba811e9c5aeafc8ae1b71cdca4d6a"}
 https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/YFqZSdn.png", SPOTV PRIME
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://s-p-o-t-v.b-cdn.net/license?cid=prime
+http://mc-3ld0u4nrvi.bunny.run/spotprime/dopamine/master.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/8b3a24e8f2e7e5a5d591d94e1420990d.png", SPOTV PRIME 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://s-p-o-t-v.b-cdn.net/license?cid=prime2
+http://mc-3ld0u4nrvi.bunny.run/spotprime2/dopamine/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png", SPOTV PRIME PLUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://s-p-o-t-v.b-cdn.net/license?cid=primeplus
+http://mc-3ld0u4nrvi.bunny.run/spotprimeplus/dopamine/master.m3u8
+
+#EXTINF:-1, Sky Sports Main Event
+https://topstream.space/crhd/stream.php?id=skysme
+
+#EXTINF:-1, Sky Sports Cricket
+https://topstream.space/crhd/stream.php?id=skyscric
+
+#EXTINF:-1, Sky Sports Premier League
+https://topstream.space/crhd/stream.php?id=skysprem
+
+#EXTINF:-1, Sky Sports Football
+https://topstream.space/crhd/stream.php?id=skysfott
+
+#EXTINF:-1, Sky Sports NFL
+https://topstream.space/crhd/stream.php?id=skysact
+
+#EXTINF:-1, Sky Sports Golf
+https://topstream.space/crhd/stream.php?id=skysgol
+
+#EXTINF:-1, Sky Sports Tennis
+https://topstream.space/crhd/stream.php?id=skystennis
+
+#EXTINF:-1, Sky Sports Formula 1
+https://topstream.space/crhd/stream.php?id=skysfor1
+
+#EXTINF:-1, Sky Sports Mix
+https://topstream.space/crhd/stream.php?id=skysmixx
+
+#EXTINF:-1, TNT Sports 1
+https://topstream.space/crhd/stream.php?id=bbtsp1
+
+#EXTINF:-1, TNT Sports 2
+https://topstream.space/crhd/stream.php?id=bbtsp2
+
+#EXTINF:-1, TNT Sports 3
+https://topstream.space/crhd/stream.php?id=bbtsp3
+
+#EXTINF:-1, TNT Sports 4
+https://topstream.space/crhd/stream.php?id=bbtespn
+
+#EXTINF:-1, La Liga TV UK
+https://topstream.space/crhd/stream.php?id=laligauk
+
+#EXTINF:-1, Star Sports 1
+https://topstream.space/crhd/stream.php?id=star1in
+
+#EXTINF:-1, PTV Sports Pakistan
+https://topstream.space/crhd/stream.php?id=ptvpk
+
+#EXTINF:-1, Willow USA
+https://topstream.space/crhd/stream.php?id=willowusa
+
+#EXTINF:-1, Willow Extra
+https://topstream.space/crhd/stream.php?id=willowextra
+
+#EXTINF:-1, A Sports
+https://topstream.space/crhd/stream.php?id=asportshd
+
+#EXTINF:-1, Premier Sports 1 UK
+https://topstream.space/crhd/stream.php?id=premieruk
+
+#EXTINF:-1, Premier Sports 2 UK
+https://topstream.space/crhd/stream.php?id=hdchnl2
+
+#EXTINF:-1, Sony Ten 1 HD
+https://topstream.space/crhd/stream.php?id=ten1hd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTINF:-1, SpoTv Now
+https://slive.mana2.my/SpotvNow/index.mpd
