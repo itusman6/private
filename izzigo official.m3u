@@ -680,7 +680,7 @@ https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
 
 #EXTINF:-1,SpongeBob Squarepants Universe - Amazon US
-#KODIPROP:inputstream.adaptive.license_key=97059dda057be550c8ed9badaf9452a4
+#KODIPROP:inputstream.adaptive.license_key=eb40bbe77f790baf42d44d41e75e79e38d01042ec2f78f7c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
