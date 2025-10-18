@@ -679,9 +679,6 @@ https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
 
-#EXTINF:-1,SpongeBob Squarepants Universe - Amazon US
-#KODIPROP:inputstream.adaptive.license_key=60c75395c69c1e1b5155440bbc7c9498:97059dda057be550c8ed9badaf9452a4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-http://a163aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/n7vaganwdb/out/v1/d7ab24a6781b4c489d1a06ed57b54a4b/cenc.mpd
+#EXTINF:-1 tvg-id="STAR_CINEMA" tvg-name="Star Cinema" tvg-logo="" group-title="Movies",Star Cinema
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dbc3fb7aa20b270802ff&AV_CHANNEL_NAME=Starmedia&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=
+
