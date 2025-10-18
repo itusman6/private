@@ -190,6 +190,8 @@ https://tplay-vivek.vercel.app/play.m3u8?id=245
 https://tplay-vivek.vercel.app/play.m3u8?id=32
 #EXTINF:-1 tvg-id="DD_Sports" tvg-name="DD Sports" tvg-logo="" group-title="SPORTS",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+#EXTINF:-1 tvg-id="STAR_CINEMA" tvg-name="Star Cinema" tvg-logo="" group-title="Movies",Star Cinema
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dbc3fb7aa20b270802ff&AV_CHANNEL_NAME=Starmedia&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=
 
 
 
