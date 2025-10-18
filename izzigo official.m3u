@@ -682,10 +682,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/
 #EXTINF:-1 tvg-id="STAR_CINEMA" tvg-name="Star Cinema" tvg-logo="" group-title="Movies",Star Cinema
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dbc3fb7aa20b270802ff&AV_CHANNEL_NAME=Starmedia&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=
 
-#EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-dash-dazn/32671e52-5768-4cb1-8e90-659445611d00/stream.mpd|R{SSM}|8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769||
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1,Unbeaten - DAZN
+#EXTINF:-1 tvg-id="Unbeaten.dazn" tvg-logo="https://example.com/unbeaten_logo.png" group-title="Sports",Unbeaten - DAZN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-dash-dazn/32671e52-5768-4cb1-8e90-659445611d00/stream.mpd
