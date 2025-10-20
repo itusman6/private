@@ -141,17 +141,17 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 ‎#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO
 ‎https://kusnadipepenk.github.io/campeign/hbo.m3u8
 ‎##http://203.77.246.50:5000/udp/239.1.3.84:5000
-
+‎
 ‎#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO Family
 ‎https://kusnadipepenk.github.io/campeign/hbofam.m3u8
 ‎##http://203.77.246.50:5000/udp/239.1.3.76:5000
-
+‎
 ‎#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO Hits
 ‎https://kusnadipepenk.github.io/campeign/hbihit.m3u8
-
+‎
 ‎#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO Signs
 ‎https://kusnadipepenk.github.io/campeign/hbosi.m3u8
-
+‎
 ‎#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID Cinemax
 ‎https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
