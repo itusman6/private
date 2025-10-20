@@ -728,10 +728,3 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0
 https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
-
-#EXTINF:-1 tvg-id="SpongeBobUniverse" tvg-name="SpongeBob Squarepants Universe" tvg-logo="" group-title="KIDS",SpongeBob Squarepants Universe - Amazon US
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97059dda057be550c8ed9badaf9452a4
-http://a163aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/n7vaganwdb/out/v1/d7ab24a6781b4c489d1a06ed57b54a4b/cenc.mpd
