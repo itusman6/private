@@ -1,0 +1,101 @@
+‎#EXTM3U
+‎
+‎#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-logo="https://www.antik.sk/assets/img/channels/723410b6d48888070012c0691a65afef.svg" group-title="ANTIK",Eurosport 1
+‎#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+‎#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+‎#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+‎https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+‎
+‎#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-logo="https://www.antik.sk/assets/img/channels/53556522790a0b05d647d7d5c27eed51.svg" group-title="ANTIK",Eurosport 2
+‎#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+‎#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+‎#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+‎https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+‎
+‎#EXTINF:-1 tvg-id="Food Network.cz" tvg-logo="https://www.antik.sk/assets/img/channels/c0e751b6e9a9f8cbf1b42cc3b03c2e4a.svg" group-title="ANTIK",Food Network
+‎#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+‎#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+‎#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+‎https://dash2.antik.sk/stream/hisi_food_network/playlist_cbcs.mpd
+‎
+‎#EXTINF:-1 tvg-id="History2.cz" tvg-logo="https://www.antik.sk/assets/img/channels/04d055bb2543bcd043e6229549d4e5d1.svg" group-title="ANTIK",History 2
+‎#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+‎#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+‎#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+‎https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd
+‎
+‎#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="" group-title="Sports", Sky Sports +
+‎#EXTVLCOPT:http-referrer=https://liveboxpro.com/
+‎#EXTVLCOPT:http-origin=https://liveboxpro.com
+‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+‎https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUNqR3hOTjNiaVZoQW12OTNyNGhWNjFsckhucXpZL3BvaG5Sbw/master.m3u8
+‎
+‎#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Movies",Cinemax HD East
+‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
+‎https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
+‎
+‎#EXTINF:-1 tvg-id="Amazon.US.StarzKidsAndFamilyHDEast" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_kf._SL170_FMpng_.png",Starz Kids & Family HD East
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key={"0c6ca94e4d9cdcb8eb387e659ba00834":"0565f7a65c76833908647b4a4c382d26"}
+‎https://a202aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/6tayf6u2ws/out/v1/54ee39a134714248b735eb986bff786d/cenc.mpd
+‎
+‎#EXTINF:-1 tvg-id="" group-title="GO3 SPORT",GO3 SPORT 2 HD
+‎#KODIPROP:inputstream.adaptive.manifest_type=mpd
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=8b6061376de34956a3e9a9698f8a3d2e:f120de45500aacaa8fbdafec0234ce35
+‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
+‎https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd 
+‎
+‎#EXTINF:-1 tvg-id="UK | TNT Sports 1" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports1GB._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 1 HD
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+‎https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+‎
+‎#EXTINF:-1 tvg-id="UK | TNT Sports 2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports2GBWhite._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 2 HD
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+‎https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+‎
+‎#EXTINF:-1 tvg-id="UK | TNT Sports 3" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports3GBWhite._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 3 HD
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+‎https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+‎
+‎#EXTINF:-1 tvg-id="UK | TNT Sports 4" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports4GBWhite._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 4 HD
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+‎https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+‎
+‎#EXTINF:-1 tvg-id="UK | TNT Sports 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%205.png" group-title="Prime Video UK Sport",TNT Sports 5 HD
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+‎https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+‎
+‎#EXTINF:-1 tvg-id="TSN1.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN1White16x9._SL170_FMpng_.png",TSN 1
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key={"8df41512092240d38550e83dc05e157e":"f29f106ec9f58b41c7c8391b64f3bb25"}
+‎https://live-cito.9c9media.ca/1c3b314400c213d678f83ef6687899a3dfb7c8b21674096484889/f/tsn1/manifest.mpd
+‎
+‎#EXTINF:-1 tvg-id="TSN2.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN2White16x9._SL170_FMpng_.png",TSN 2
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key={"885df0ea68814a11a3dd7718725f4075":"ab3698f738c4b90c11de7239cb5ed7c1"},{"6e12bc7a35b25b8c867006759dbed897":"ab3698f738c4b90c11de7239cb5ed7c1"},{"79cc4e13b9675fb8b52e0b561f010589":"ab3698f738c4b90c11de7239cb5ed7c1"}
+‎https://live-cito.9c9media.ca/bde85c576a4b0b38acfcb662cdc7fe7b79cb41411720084197940/f/tsn2/manifest.mpd
+‎
+‎#EXTINF:-1 tvg-id="TSN3.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN3White16x9._SL170_FMpng_.png",TSN 3
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key={"473177ea3d394060a0d0c266521ffd68":"cb6366270ecf03b7b80aae491ef9d618"},{"9c44856a51e05cd0b58084ef36c7d5f2":"cb6366270ecf03b7b80aae491ef9d618"},{"453c5eaf69f95cba87db924543000655":"cb6366270ecf03b7b80aae491ef9d618"}
+‎https://live-cito.9c9media.ca/cc6f72e47c28d3297599908ad89a8b9f080d61df1720084275481/f/tsn3/manifest.mpd
+‎
+‎#EXTINF:-1 tvg-id="TSN4.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN4White16x9._SL170_FMpng_.png",TSN 4
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key={'7c6872a2902a4617b878999bf32ccf87':'fc53eba9d731de52e83a23d98bea304a'},{'894716c87fb65cc284929db5da63ee99':'fc53eba9d731de52e83a23d98bea304a'},{'0880925dd00056d28b4680f48450c0e8':'fc53eba9d731de52e83a23d98bea304a'}
+‎https://live-cito.9c9media.ca/6f49494abb079d3b0eafd9a8d8c42fb2647fd8fe1720084350548/f/tsn4/manifest.mpd
+‎
+‎#EXTINF:-1 tvg-id="TSN5.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN5White16x9._SL170_FMpng_.png",TSN 5
+‎#KODIPROP:inputstream.adaptive.license_type=clearkey
+‎#KODIPROP:inputstream.adaptive.license_key={"f4608dc9b6164cd7b96791af91cc334c":"8d4bc6537629d3f7ad5aa4e75516f6da"},{"51da7f0edfc359249ad06dc287a65303":"8d4bc6537629d3f7ad5aa4e75516f6da"},{"9a9859f9bd5f5ff8ab961b3a6bf181c4":"8d4bc6537629d3f7ad5aa4e75516f6da"}
+‎https://live-cito.9c9media.ca/ae6a733062fca644619fd3521f33be2d1671be151720084403103/f/tsn5/manifest.mpd
+‎
+‎
