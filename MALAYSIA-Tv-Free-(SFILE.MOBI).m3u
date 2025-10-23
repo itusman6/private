@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -527,12 +528,13 @@ https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 ##KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2fhd
 https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2fhd
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png",806 EPL3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Astro UHD" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/sportuhd.png",807 Astro UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl3
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrouhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/grandstand.png" group-title="⚽ SPORTS FHD",807 Grandstand HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -578,12 +580,6 @@ https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.license_key=28bfcc9774644bda822c17a35660164c:620dba660d3e1f42acd6b077b4ca1dd8
 #https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplusfhd|authorization=Bearer
 https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplusfhd
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplus2fhd.png",811 Sports Plus 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4de5391b090c4259be8b7322f6d0bbb1:225f00d71a69a46b6160b56c2ff5f0b0
-https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplus2fhd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplus2hd.png",811 Sports Plus 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -620,12 +616,6 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein3fhd|authorization=Bearer
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein3fhd
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein4fhd.png",816 Bein4 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein4unifi
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/tnt1.png",817 TNT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1224,6 +1214,11 @@ https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6553047
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6553047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://storage.googleapis.com/smedia-tonton-com-my/2025/05/Aku-Bukan-Ustazah-2_PORTRAIT-min.jpg" group-title="● SERIES TONTON", 93-S2E35 Aku Bukan Ustazah 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6553046
+https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6553046
 #===========Nikmat hanya Sesaat===============
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://storage.googleapis.com/smedia-tonton-com-my/2025/05/Nikmat-Hanya-Sesaat_PORTRAIT-min.jpg" group-title="● SERIES TONTON", 94-S1E01 Nikmat Hanya Sesaat
 https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6545227
@@ -1340,6 +1335,11 @@ https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6542607
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6542607
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6542895%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 95-S1E05 Dari Rahim Yang Sama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6542834
+https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6542834
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6542895%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 95-S1E06 Dari Rahim Yang Sama
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2075,26 +2075,6 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7faaacbd5f64df97157462d0e1e9f410:6ebe7008fb49027187f12bdce9a14779
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series",85-Rumah Tanpa Luka S01 E10
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=bd90a4e3ab67b2c073385d23ea831a10:ae82804c8fe60c3358b5d5cc5a34148f
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series",85-Rumah Tanpa Luka S01 E11
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=d217ee2c1a4eb5c589273beb6a895310:9dc6779f1e99d9459d25903252f5131d
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series",85-Rumah Tanpa Luka S01 E12
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=ff7c4de17e798ca31e3a65c4c5176c10:b23377601445d15ddb9b403efc3b1e81
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series",85-Rumah Tanpa Luka S01 E13
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=919a050febb6fc955dbdbba07935fb10:ceb5ba06c8f277e87eb155a6e4b40388
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE13
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series",85-Rumah Tanpa Luka S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2105,21 +2085,11 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=bdc05b6c90d993c35335441f3022e310:0140c058dad5b5880c839bfd13e10156
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE15
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series",85-Rumah Tanpa Luka S01 E16
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=816d657a9ed0ecc76482714f1ac78e10:c2326d606d12f33bc9b32a9faf86225e
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE16
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series",85-Rumah Tanpa Luka S01 E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ad7cb3c7ad5c9a976f3c57364fc47710:c5c16a9d742b04cc12cdc9717baf75cb
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series",85-Rumah Tanpa Luka S01 E18
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=fdd678ccf09d8937191034b8abc4fb10:a76c3d9c9ea3fc821a7c7c987852149e
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE18
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series",85-Rumah Tanpa Luka S01 E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2166,6 +2136,16 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2f7164aad9538ce3f83c60d607f29a10:10e5bbd956859b98dc43390e6b5931ab
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E08
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b5a269b2e9bf8dfa3f5cd823ba081f10:4152db6e5ddcd9a36a9c62c40552803d
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E09
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=dcaee449be477ebcf4008d040bcad110:270813aa74c77c193de9ca98058c22b9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2251,26 +2231,11 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=83035ef4b144b6c62487c464db936810:cfd4d24923db438ebe368a0ce899b7de
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE26
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E27
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=e31c81f99128df4894f2ffb07ffb9110:44b7e8b9fc93acc7f80bb4b3dd17b259
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE27
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E28
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=08ba1f717723c0c0c89e7c5de9c61110:b65258fe9d04eec98e41417038045e8e
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE28
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E29
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=470a8b205a3c8349e7cdf9a9c8721510:1ec7465c78ca7bea653de2c58c3ef7a6
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E30
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=846f8c2516d2b76c64b8bfc661e43710:c0b63da701aa64414d02545f42a7d9b2
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE30
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E31
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2306,11 +2271,6 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=747b19f7a089c2ea762544a5b98b2510:a41df0361fd3bc095b5fc2915ee4d722
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE37
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E38
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=746f7367db5c215151044fb788a7ae10:27fe7a7882564aa98615c886fa0ab7ce
-https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE38
 ######## Thariq Ridzuwan His Treasure ##############
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series",87-Thariq Ridzuwan His Treasure S01 E01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2372,6 +2332,11 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1758ee944b3aebdca15a021a94dba410:7fe0a5b1c879e4f37ac1f9c67219e108
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series",87-Thariq Ridzuwan His Treasure S01 E13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ac4120d49fed9ad667c1e86855ef4c10:3391911fa0e015e5952c7ac35504a0bb
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE13
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series",87-Thariq Ridzuwan His Treasure S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5722,11 +5687,6 @@ https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7983b8f60f9507fab4e5c15e54da155:0fc0c3c58f04a2c0fa41c5e8e1460cee
 https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9246
-#EXTINF:-1 tvg-id="" ch-number="9250" tvg-name="" group-title="▶ VOD SERAM" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2df5efJQUOM_p.jpg", 9250 Selamat Hari Tak jadi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1982c44c6f35ac3b49ef399cb1d163e:597a87c1f8d5dbca939e32fe8ac330f9
-https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9250
 #EXTINF:-1 tvg-id="" ch-number="9259" tvg-name="" group-title="▶ VOD SERAM" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4151c3IOXJJ_p.jpg", 9259 Setan Dalam Poket
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5772,6 +5732,148 @@ https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef39a13e17af52fdadb5cef56cc07d68:72e3c6197b2fbed6fb0237c8a48bc51b
 https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9288
+######################################
+###########zee5 Sonyliv ######################
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5117562/portrait/1920x7708826e4650ee8426e8d40b59bc29fe71a111c7b6d58614d8cb6223b130b44a498.jpg", 00-Valimai (2022)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0287f496188e40cca3cb203ad0bba464:56ffcd58aaced61d77b0c9bc9c6c664f
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5117562
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5273917/portrait/1920x770db214448a75841f3bb7605ee59a9940f446f132925cb4e6e8e597d19f9de2922.jpg", 00-Kaari (2025)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bdb3d0d7216438a8f0f02d7e896e5c7:e31218164ff59530b4e96dae18150627
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5273917
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5785936/portrait/1920x7709a9f760777eb4b7594898fdf55fac6503963bda937524bb4a0718b819501b987.jpg", 00-Bhairavam (2025)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0b3f923cd3936b4b2fb8907f5f8b678:b957555d0ef32a9f78ddb56c213a0612
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5785936
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5730838/portrait/1920x7707ed2acffc4824858b46d5a740fb0725000443e6eace5487f8b68c2fc86c38466.jpg", 01-Kingston (2025)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f12f0827a0d9398fbd4c13363b9be6a7:7a39400fef84817e38af7297d9e5616e
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5730838
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5746396/portrait/1920x77054f61c987bec45d7a1341cff1449d80e6808f3c92c6e429ba2e74aa55e1716c1dfb708ea80b14976980add88db1b51d5.jpg", 01-Robinhood (2025)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e53d3649549032229ee0535718e44540:d02ca7ac29274f61216b0e02e59c0e1d
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5746396
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-75423/portrait/sbag_3_19th_1920x770.jpg", 01-Saheb Biwi Aur Gangster 3 (2018)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+https://get.perfecttv.net/zee.mpd?content_id=0-0-75423
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-75513/portrait/holidaymalay1920x770.jpg", 01-Holiday (2014)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+https://get.perfecttv.net/zee.mpd?content_id=0-0-75513
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5711602/portrait/1920x770f89e144e47944f09a3fb5f418146a3815d150ca208c940f2989295367778c9f7.jpg", 1-Game Changer (2025)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66ea1bf4756932d0a976b304eac09550:4f33eef247a89b196d7e9e7a6b9fe85d
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5711602
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-360780/portrait/00360780cover171284178717128f365dd6475854641b2ef6953c35d1b8c.jpg", Vijay The Master (2021)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b448776f47074cc4875a8670041e139f:f54a5f1d4402c617e1f60fae062eaef9
+https://get.perfecttv.net/zee.mpd?content_id=0-0-360780
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5148987/portrait/1920x7709e71a0e093e949a6869e3baa560b5db9b9b372d41d404b139b5004e1885f2e32.jpg", RRR (2022)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=710aefcdab944291abe8a552a98fad72:17ce0ce778dcc9fd9d2a493e0ef2b30d
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5148988
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-76092/portrait/theshaukeensms1920x770.jpg", The Shaukeens (2014)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+https://get.perfecttv.net/zee.mpd?content_id=0-0-76092
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-76106/portrait/zanjeer2013ms1920x770.jpg", Zanjeer (2013)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+https://get.perfecttv.net/zee.mpd?content_id=0-0-76106
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5379692/portrait/1920x7709e0236e298654e1e9a04da705f0482473419ef0350d64a769aa79a31b5fc588b.jpg", 2-Kisi Ka Bhai Kisi Ki Jaan (2023)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33ab292d23974e20b18814dd19b821ef:fe90e1df4bc30320da01c0cef67e1688
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5379692
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z562203/portrait/1920x77052b9f008ece24cbb866a1102875acd63e364c9a50b6f46babc83c85b43a0c22a.jpg", 2-Antim: The Final Truth (2021)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0128d66093144dfa7b529ede7c11810:eaacc2ca6c77298106f9062ecb97c8a0
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z562203
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="http://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-399328/portrait/1920x7709033fadc6ce34d1889ba269c8ceb9ac2.jpg", 2-Radhe - Your Most Wanted Bhai (2021)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17cd10f25e1e3a0ea9266c3e0dca0767:71284817877187d7f8298d07d64f9556
+https://get.perfecttv.net/zee.mpd?content_id=0-0-399328
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5489618/portrait/1920x7706d131bcebf304ad7b6332f105020eec2742207eab07a44cb9ca27a6bc911e4c277fbd65ab4a94a70924149cd2abb634f.jpg", 3-Tejas (2023)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4181bb20bb253d3d86d0105abfee6985:47f679216d2d33e27767fef26d4feb4e
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5489618
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5535878/portrait/1920x7701fd093d1b0b94fe2be3d46e8ff008f8be33c38c3c18c47cd84985863b44f0296.jpg", 3-Silence 2 (2024)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdd47b236ddc30f0a8f3de146d2ce29b:2ca17434e180ae8cda1ac7f023d3c5b1
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5535878
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-369273/portrait/1920x770pg3da76baf5c934f039fedb3c764027e8939b917c3d69a4f1aa250541ee517618d.jpg", 3-Silence (2021)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6326bcf03ece4270a75bdc9e188deaf0:b7e7992edeee6cc8111dd8b155d5e539
+https://get.perfecttv.net/zee.mpd?content_id=0-0-369273
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z51248/portrait/1920x770b4bda81746aa4230a9525ac25305c7e62d9759c955f34a88a28ab8b15cab8185.jpg", 3-Silence (2021)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37ae0f7828aa3e92a8607bcbec816daa:c92d8d2973bdd8c13547e3989af7c4c8
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z51248
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-76100/portrait/wantedms1920x770.jpg", Wanted (2009)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+https://get.perfecttv.net/zee.mpd?content_id=0-0-76100
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-75335/portrait/noproblemms1920x770.jpg", No Problem (2010)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+https://get.perfecttv.net/zee.mpd?content_id=0-0-75335
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1803765767/portrait/TimeStory1920x7702e3b15ada92d419d95ef0d15a7919a63.jpg", Time Story (2016)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+https://get.perfecttv.net/zee.mpd?content_id=0-0-movie_1803765767
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5437988/portrait/1920x77081e7c3745a454a7abb902aee403be0cc7493d090b093437b882068aedf4c9b44.jpg", 2-Gadar 2(2023)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=29ecbefd8e9d4fcfa09878f74d5eb2b9:e9b3117837b8974aa1a9160697c0e46c
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5437988
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-gadarekpremkatha/portrait/1920x7705c04ad289f4b421c82e4b963c0f3023a92d70d3a98d94df6bae13eb1354ebed1.jpg", 2-Gadar (2001)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9908bd2b24f14a23be78485f50c1e0d5:15115e4625c141b42a51a57821cb9077
+https://get.perfecttv.net/zee.mpd?content_id=0-0-gadarekpremkatha
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1968889812/portrait/parmanu1920x7713299746381329e2a83e087fec42bb8ac77b44e3553b88.jpg", Parmanu (2018)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5410fb4b52153cbcb582d36ae02c3206:4adae9d84e70cc6ee0dff4eb8a763df6
+https://get.perfecttv.net/zee.mpd?content_id=0-0-movie_1968889812
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x7702d80a677f77344018de1aee544a1ebc06de1cecda4914edcba121d7d20095255.jpg", Uri: The Surgical Strike (2019)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=29e36b4ea9233111bae841feed8ab309:a887017aeb89f1caf6cfad43fb1b4a4e
+https://get.perfecttv.net/zee.mpd?content_id=0-0-33204
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-131607/portrait/commando31920x549652121549a090707caf344028adf800c0ca2868bd.jpg", Commando 3 (2019)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=573329b9a5aa33558448ef00b75f1a72:21c27675aba7d3005c768c58f2629ccd
+https://get.perfecttv.net/zee.mpd?content_id=0-0-131607
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-2348/portrait/shaktithepower1920x770.jpg", Shakti-The Power (2002)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72403831c5ef4802a0aee84f4f0a5e30:8d039e975b530b97c283f0e6e3b0a0f8
+https://get.perfecttv.net/zee.mpd?content_id=0-0-2348
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/portrait/1920x770192a79cb947f40b5a19e9f4e3f2e15c6.jpg", Khuda Haafiz Chapter 2: Agni Pariksha(2022)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c811dc1f26aa3b3bae7ad335dcf59c6f:4800e7e8ca427d16fb6b77310533e885
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5206274
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x770d40be52fee38464ea5d389f46e08f4c3.jpg", Raksha Bandhan (2022)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d319030dc68475e972d458c923eaddf:6d59b1c30a0264491fe6c7b6e5cef0b0
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5228525
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_2077184162/portrait/1920x770377254293ab14ae08ceeecf9b172d629303371a236784cbfa0d1009c64ac2144.jpg", Pad Man (2018)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d21bce077683b238187ca277017f3d0:4885a1c5a11187b0ebc3c0d33edf4451
+https://get.perfecttv.net/zee.mpd?content_id=0-0-movie_2077184162
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-toiletekpremkatha/portrait/1920x7701497425846.jpg", Toilet (2017)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6309f3bc55a7367784a7651e697fb7af:00deba05bcae1cb72c3a0f28c1782b38
+https://get.perfecttv.net/zee.mpd?content_id=0-0-toiletekpremkatha
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-68177/portrait/simmbams17th1920x770.jpg", Simmba (2018)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+https://get.perfecttv.net/zee.mpd?content_id=0-0-36802
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-movie_2116148677/portrait/1920x7701953436430.jpg", Suriya S3 (2017)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cab5e349d5439e9c998ee73c9325f9:1300db727c18e85480952f890485e1bd
+https://get.perfecttv.net/zee.mpd?content_id=0-0-movie_2116148677
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="zee5" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-2488/portrait/002488cover.jpg", Encounter Shankar (2014)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+https://get.perfecttv.net/zee.mpd?content_id=0-0-2488
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://images.slivcdn.com/videoasset_images/bolt_assets/portrait_thumb/1741071325810_Marco_hp_26feb_portrait_thumb.jpg?h=474&w=316&q=high", 1-Sony-Marco (2024)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04d7495233fe4cc9af24c4397d700000:ad799bfb4de8431e9cca1277439c333d
@@ -5820,6 +5922,10 @@ https://get.perfecttv.net/sonyliv.mpd?video_id=1090484697&content_id=505557914
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e80cfb90f7c94de09bd47ca125db0000:b5ea8a1ca98644d0b481cd63044e6883
 https://get.perfecttv.net/sonyliv.mpd?video_id=1000165132&content_id=505557914
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="sonyliv" group-title="▶ VOD ZEE5+SONY" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5797649/portrait/1920x7705d268d6804c4443a94858e74d4cf4dd8386872cb61bf4894bbb27ea074b2ff7f4d0a020d59894737b2d4c0b72e876eba.jpg", 0-Tehran(2025)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=313e5ef93f6531b0b0fe0b6b1536e0e9:22b222059f28c92e697073fe0ac81e1e
+https://get.perfecttv.net/zee.mpd?content_id=0-0-1z5797649
 #==========VOD BOLLYWOOD===================
 #EXTINF:-1 tvg-id="b999" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/970/255970-POSTER-m.jpg"  group-title="▶ VOD BOLLYWOOD", BOLLYWOOD -4-Khiladi 786
 #KODIPROP:inputstream=inputstream.adaptive
@@ -6252,4 +6358,3 @@ https://get.perfecttv.net/stream.ts?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/okayru.mpd?id=10773849574095
 #EXTINF:-1 tvg-id="" tvg-name="896-Blood Brothers: Dragon's Embers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR6IwU2ZfVuzg3mzh06XwlsDiCR.jpg" group-title="▶ VOD MALAY",896-Blood Brothers: Dragon's Embers (2025)(MultiResolution)
 https://get.perfecttv.net/okayru.mpd?id=10770460904143
-
