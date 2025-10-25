@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SkySportPremierLeagueDE" group-title="Sports" tvg-logo="",Sky Sport Premier League DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+
+#EXTINF:-1 tvg-id="SkySportBundesliga" group-title="Sports" tvg-logo="",Sky Sport Bundesliga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
+https://abe4mdzaaaaaaaampzanwc57oxzim.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
+
+#EXTINF:-1 tvg-id="Ligue1Plus" group-title="Sports" tvg-logo="",Ligue 1+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=696f9bf50f6acb998f01b167f116489a:665def116bb1fab7a150652c1b8ae38b
+https://abfefuqaaaaaaaamje6i5hpbgxmgg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sa3kv0ib81/out/v1/3997f922f5a946359797885cb496f93b/cenc.mpd
+
+#EXTINF:-1 tvg-id="PremierSportsRugby" group-title="Sports" tvg-logo="",Premier Sports Rugby
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4751472d3ac45e95e44b5e75480e53de:5f989e3de354630ec7973980f129ed01
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
+
+#EXTINF:-1 tvg-id="PBBDiningArea" group-title="PBB" tvg-logo="",PBB Dining Area
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b37bb823fe48452eba8cee62516f5da1:8b48cec6bce94917e4c39c381d607102
+https://abslive.akamaized.net/dash/live/2028025/pbb1/manifest.mpd
+
+#EXTINF:-1 tvg-id="PBBPoolArea" group-title="PBB" tvg-logo="",PBB Pool Area
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9539027a7c42446a8648555af3bb3095:1cb94c88f68bef1e728cfa4677e1eeca
+https://abslive.akamaized.net/dash/live/2028025/pbb2/manifest.mpd
+
+#EXTINF:-1 tvg-id="PBB" group-title="PBB" tvg-logo="",PBB
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-id="LOL" group-title="Entertainment" tvg-logo="",LOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=122c84bc130940586c961bae652b3610:1153586a1a453e03402714a299964564
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Blu3Hu5tlerAdult" group-title="Adult" tvg-logo="",Blu3 Hu5tler Adult
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
