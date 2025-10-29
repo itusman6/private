@@ -472,110 +472,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf
 
 #EXTINF:-1 tvg-id="LaLigaTV" tvg-logo="" group-title="Sports",La Liga TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"620e51b82596475517a27aa425c52280":"2b9ba811e9c5aeafc8ae1b71cdca4d6a"}
+#KODIPROP:inputstream.adaptive.license_key={"620e51b82596475517a27aa425c52280":"2b9ba811e9c5aeafc8e1b71cdca4d6a"}
 https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
-#EXTINF:-1, Sky Sports Main Event
-https://topstream.space/crhd/stream.php?id=skysme
-
-#EXTINF:-1, Sky Sports Cricket
-https://topstream.space/crhd/stream.php?id=skyscric
-
-#EXTINF:-1, Sky Sports Premier League
-https://topstream.space/crhd/stream.php?id=skysprem
-
-#EXTINF:-1, Sky Sports Football
-https://topstream.space/crhd/stream.php?id=skysfott
-
-#EXTINF:-1, Sky Sports NFL
-https://topstream.space/crhd/stream.php?id=skysact
-
-#EXTINF:-1, Sky Sports Golf
-https://topstream.space/crhd/stream.php?id=skysgol
-
-#EXTINF:-1, Sky Sports Tennis
-https://topstream.space/crhd/stream.php?id=skystennis
-
-#EXTINF:-1, Sky Sports Formula 1
-https://topstream.space/crhd/stream.php?id=skysfor1
-
-#EXTINF:-1, Sky Sports Mix
-https://topstream.space/crhd/stream.php?id=skysmixx
-
-#EXTINF:-1, TNT Sports 1
-https://topstream.space/crhd/stream.php?id=bbtsp1
-
-#EXTINF:-1, TNT Sports 2
-https://topstream.space/crhd/stream.php?id=bbtsp2
-
-#EXTINF:-1, TNT Sports 3
-https://topstream.space/crhd/stream.php?id=bbtsp3
-
-#EXTINF:-1, TNT Sports 4
-https://topstream.space/crhd/stream.php?id=bbtespn
-
-#EXTINF:-1, La Liga TV UK
-https://topstream.space/crhd/stream.php?id=laligauk
-
-#EXTINF:-1, Star Sports 1
-https://topstream.space/crhd/stream.php?id=star1in
-
-#EXTINF:-1, PTV Sports Pakistan
-https://topstream.space/crhd/stream.php?id=ptvpk
-
-#EXTINF:-1, Willow USA
-https://topstream.space/crhd/stream.php?id=willowusa
-
-#EXTINF:-1, Willow Extra
-https://topstream.space/crhd/stream.php?id=willowextra
-
-#EXTINF:-1, A Sports
-https://topstream.space/crhd/stream.php?id=asportshd
-
-#EXTINF:-1, Premier Sports 1 UK
-https://topstream.space/crhd/stream.php?id=premieruk
-
-#EXTINF:-1, Premier Sports 2 UK
-https://topstream.space/crhd/stream.php?id=hdchnl2
-
-#EXTINF:-1, Sony Ten 1 HD
-https://topstream.space/crhd/stream.php?id=ten1hd
-
-#EXTINF:-1, Sony Sports Ten 1
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-1&format=.m3u8
-
-#EXTINF:-1, Sony Sports Ten 2
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-2&format=.m3u8
-
-#EXTINF:-1, Sony Sports Ten 3
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-3&format=.m3u8
-
-#EXTINF:-1, Sony Sports Ten 5
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-5&format=.m3u8
-
-#EXTINF:-1, Sony Sports Ten 1 HD
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8
-
-#EXTINF:-1, Sony Sports Ten 2 HD
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-2-hd&format=.m3u8
-
-#EXTINF:-1, Sony Sports Ten 3 HD
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-3-hd&format=.m3u8
-
-#EXTINF:-1, Sony Sports Ten 5 HD
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8
-
-#EXTINF:-1, Sony MAX HD
-https://topsports.watch/sonyliv/stream.php?id=sony-max-hd&format=.m3u8
-
-#EXTINF:-1, Sony MAX
-https://topsports.watch/sonyliv/stream.php?id=sony-max&format=.m3u8
-
-#EXTINF:-1, Sony MAX 2
-https://topsports.watch/sonyliv/stream.php?id=sony-max-2&format=.m3u8
-
-#EXTINF:-1, Sony PIX HD
-https://topsports.watch/sonyliv/stream.php?id=sony-pix-hd&format=.m3u8
 
 #EXTINF:-1, DD Sports India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
@@ -1189,3 +1087,18 @@ https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/o
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="BBCEntertainment" group-title="Entertainment" tvg-logo="",BBC Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
+
+#EXTINF:-1 tvg-id="HBOZone" group-title="Movies" tvg-logo="",HBO Zone
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+
+#EXTINF:-1 tvg-id="USANetwork" group-title="Entertainment" tvg-logo="",USA Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(usa-east)/master.mpd
