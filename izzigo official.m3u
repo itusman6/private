@@ -1117,3 +1117,23 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="",Foo Fighters
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3DEE3F3D1DD5955EAB906B10C630B9E1:b0cb46d2d31cf044bc73db71e9865f6f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash-sd/enc/xujrnmgsah/out/v1/302824631b2546a5b1dbc6145434f686/cenc-sd.mpd
+
+#EXTINF:-1 group-title="Mystery" tvg-logo="",Unsolved Mysteries
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f96d75ed2d96faf9af0857c8e2fbca3:454198d857d8a58591e654321c5e7824
+https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/ezzzdqdq6n/out/v1/15b0b244788c4620abb49708d0b1b37e/cenc-sd.mpd
+
+#EXTINF:-1 group-title="Home" tvg-logo="",Home Crasher
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53ff5adf42d6c9bc1043248f17782efe:76252c668a94753e9a5a58c8e17880e3
+https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/djm9xxvfud/out/v1/745da049932d4db4b5148638ed3c08f0/cenc-sd.mpd
+
+#EXTINF:-1 group-title="Food" tvg-logo="",Tastemade
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a149d8edbd85136248129dd3bbabc5f:45b4f449b8583890ad0b5a50694b16a3
+https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/jkn6ehrlni/out/v1/9af4f7d76c5f4d4fb0e55c19733d6652/cenc-sd.mpd
