@@ -1132,13 +1132,3 @@ https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/djm9xxvfud/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a149d8edbd85136248129dd3bbabc5f:45b4f449b8583890ad0b5a50694b16a3
 https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/jkn6ehrlni/out/v1/9af4f7d76c5f4d4fb0e55c19733d6652/cenc-sd.mpd
-
-#EXTINF:-1 group-title="Adult" tvg-logo="",Er0 X
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
-
-#EXTINF:-1 group-title="Adult" tvg-logo="",Er0 XxX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash4.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
