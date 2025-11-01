@@ -1137,3 +1137,28 @@ https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/jkn6ehrlni/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="",Comedy Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe50655307fbdc2c4989c195423ccecf
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zbz23awyhg/out/v1/f5666ad30e36413098a56bb8fd97c46a/cenc.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Faves
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cca6e6854c136297e848e9381565b7a
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/m2vhkc7l1y/out/v1/da8d0d3203de4ce497ec6af696d47a4f/cenc.mpd
+
+#EXTINF:-1 group-title="Action" tvg-logo="",Action Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7fa135ed77f7c42389234846b402b71
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="",Comedy TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae46c390767c07d69c65a45d45a75c11
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qd0pqdbqya/out/v1/29261e2484574d678581f85474d2751d/cenc.mpd
+
+#EXTINF:-1 group-title="Thriller" tvg-logo="",Thriller TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=783e9e314d375f27cade69595fb94bca
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
