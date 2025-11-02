@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sinema 1102
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31373432343338373136363938313438:5139547654356738347a395a57725555
+https://itv224188.tmp.tivibu.com.tr:6630/001/2/ch00000090990000002654/manifest.mpd?AuthInfo=H2TFDpoRRFZ2FU3KSPupSL0FaoG2Uhtlw6vU1fuMuyJTeMQKqH5xG1NDCTmuHDcnzpvtsnzOXJzyOk5%2BwItKgZI8IgAUxzLwKUbwobGbZZ4HWNM%2B9JYIh29wHexebTyd&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000002813&contentid=ch00000000000000002813&videoid=ch00000090990000002654&recommendtype=0&userid=3237974335&boid=001&stbid=429f5b04-0854-47a1-9f6e-648cfe611fbc&terminalflag=4&profilecode=&usersessionid=NE35Xxpitg8sYDWd1UL5Xwb135624753&productcode=5202&mixno=15&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=HtdzdcdnUDFPjPD3ownfRVibr1JX244gTyMX2cVAUy4RDcNHgdQemOYENCb5sOQ8y%2FQDM3uPggMwkcHDtw1Idg%3D%3D&RateHigh=15000000&RateLow=200000&IASHttpSessionId=RR1640620251102010124092933&ispcode=75
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sinema 1101
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363139313634323832333432393234:373263547837724c743855356f487232
+https://itv224187.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001227/manifest.mpd?AuthInfo=H2TFDpoRRFZ2FU3KSPupSL0FaoG2Uhtlw6vU1fuMuyLp%2F%2F9KIwq8p4Rr4wJIpyIB5CGwuKI6aPLfkyK7ltDwiZI8IgAUxzLwKUbwobGbZZ4HWNM%2B9JYIh29wHexebTyd&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001262&contentid=ch00000000000000001262&videoid=ch00000090990000001227&recommendtype=0&userid=3237974335&boid=001&stbid=429f5b04-0854-47a1-9f6e-648cfe611fbc&terminalflag=4&profilecode=&usersessionid=NE35Xxpitg8sYDWd1UL5Xwb135624753&productcode=5202&mixno=14&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=HtdzdcdnUDFPjPD3ownfRUfJTn25yCGslsXZt3tdy6kAWf4v8k27bwHp%2FStsXATsnvd1meCPzivGUy6QE1pV5w%3D%3D&RateHigh=15000000&RateLow=200000&IASHttpSessionId=RR1641020251102010123210172&ispcode=75
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="",River Monster
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75025f174eb1cb8b709f85296019205d
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/0qrkszlddc/out/v1/c6dab014c9c8427f8547daf238154fc2/cenc-sd.mpd
