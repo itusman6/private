@@ -1236,3 +1236,13 @@ https://live-crave.video.9c9media.com/58def7d65f59ffaf995238981dd0e276d5a8fe8d17
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:65c32ada65548203a3683d5d37dd3a06
 https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce7171748593186018/fe/f/crave/crave4/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Laliga Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+‎#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Hunter_x_Hunter_US._SL170_FMpng_.png" group-title="Kids", Hunter X Hunter
+‎#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=858b2580ad037cdbbd277a6db2f2a1c4:de6a269370d725b966200f8e595a1638
+‎https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/f97mngnn6a/out/v1/7b921c8b0cb84718aa9f3f36c65c475f/cenc-sd.mpd
