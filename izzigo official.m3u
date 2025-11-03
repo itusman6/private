@@ -1161,18 +1161,3 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=718da5114082999df26bd446154b232a:87676d86015f78e00ce76b85c80838ff
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ixexxfv59o/out/v1/36f38578ffb1491e8a3ae9d0cbcd0baf/cenc-sd.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",NOWSPORTS 4K 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a03bbcf875f434be81b9019d8a7b4fa1:1645bbf1627ad6867b8601677bca6672
-http://79.127.235.177:7001/nowsports4k1/swicy/manifest.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",NOWSPORTS 4K 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf0b9c8adf833f29ba1c2ed054d07381:ae25d049158d1a8ff8e0fabc0593ed15
-http://79.127.235.177:7001/nowsports4k2/swicy/manifest.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",NOWSPORTS 4K 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b94874b50ff3e19b8c661a548b16748:f563cff1faf77d47d2ac03548af6e3cc
-http://79.127.235.177:7001/nowsports4k3/swicy/manifest.mpd
