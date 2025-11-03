@@ -1161,3 +1161,22 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=718da5114082999df26bd446154b232a:87676d86015f78e00ce76b85c80838ff
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ixexxfv59o/out/v1/36f38578ffb1491e8a3ae9d0cbcd0baf/cenc-sd.mpd
+
+
+#EXTINF:-1, CANAL+ SPORT
+http://178.33.239.54:8080/541/index.m3u8
+
+#EXTINF:-1, CANAL+ PREMIER LEAGUE
+http://178.33.239.54:8080/542/index.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 2
+http://178.33.239.54:8080/544/index.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 3
+http://178.33.239.54:8080/545/index.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 4
+http://178.33.239.54:8080/546/index.m3u8
+
+#EXTINF:-1, Canal+ MotoGP
+http://178.33.239.54:8080/547/index.m3u8
