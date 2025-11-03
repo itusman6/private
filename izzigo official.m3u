@@ -1156,3 +1156,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/RyzSports_Logo_3840x2160_white._SL170_FMpng_.png" group-title="Sports", RYZ Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=718da5114082999df26bd446154b232a:87676d86015f78e00ce76b85c80838ff
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ixexxfv59o/out/v1/36f38578ffb1491e8a3ae9d0cbcd0baf/cenc-sd.mpd
