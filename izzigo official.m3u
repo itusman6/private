@@ -1246,3 +1246,16 @@ https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tcn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=858b2580ad037cdbbd277a6db2f2a1c4:de6a269370d725b966200f8e595a1638
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/f97mngnn6a/out/v1/7b921c8b0cb84718aa9f3f36c65c475f/cenc-sd.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Premier Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Premier Sports 2
+‎#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+‎#KODIPROP:inputstreamaddon=inputstream.adaptive
+‎#KODIPROP:inputstream.adaptive.manifest_type=dash
+‎#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
