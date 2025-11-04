@@ -178,20 +178,18 @@ http://139.99.60.114:14058/
 http://38.91.102.49:64032/
 #EXTINF:-1 tvg-name="Wild Nature" group-title="Documentary",Wild Nature
 https://dg5rg8emlfy55.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/55f42503-8c44-4d7b-955d-4ca709a71a47/0.m3u8
-#EXTINF:-1 tvg-id="ANIMAL_PLANET" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTARY",ANIMAL PLANET
-https://tplay-vivek.vercel.app/play.m3u8?id=287
-#EXTINF:-1 tvg-id="MN_PLUS" tvg-name="MN+" tvg-logo="" group-title="ENTERTAINMENT",MN+
-https://tplay-vivek.vercel.app/play.m3u8?id=210
-#EXTINF:-1 tvg-id="DISCOVERY_TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="DOCUMENTARY",DISCOVERY TURBO
-https://tplay-vivek.vercel.app/play.m3u8?id=228
-#EXTINF:-1 tvg-id="STAR_GOLD_HD" tvg-name="STAR GOLD HD" tvg-logo="" group-title="ENTERTAINMENT",STAR GOLD HD
-https://tplay-vivek.vercel.app/play.m3u8?id=245
-#EXTINF:-1 tvg-id="SONY_PIX" tvg-name="Sony Pix" tvg-logo="" group-title="ENTERTAINMENT",Sony Pix
-https://tplay-vivek.vercel.app/play.m3u8?id=32
 #EXTINF:-1 tvg-id="DD_Sports" tvg-name="DD Sports" tvg-logo="" group-title="SPORTS",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #EXTINF:-1 tvg-id="STAR_CINEMA" tvg-name="Star Cinema" tvg-logo="" group-title="Movies",Star Cinema
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dbc3fb7aa20b270802ff&AV_CHANNEL_NAME=Starmedia&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=
+#EXTINF:-1 group-title="Documentary" tvg-logo="",Investigation Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+#EXTINF:-1 group-title="Documentary" tvg-logo="",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
 
 
