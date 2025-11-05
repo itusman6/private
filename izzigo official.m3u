@@ -1071,3 +1071,11 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/
 #KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 
+#EXTINF:-1 group-title="Sports" tvg-logo="",Premiere Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+
