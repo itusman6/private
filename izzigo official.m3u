@@ -1468,3 +1468,12 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/ssd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938
 https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.ibb.co/DG6ZNVM/sport1-de.png",Sport 1 🇩🇪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ftBraQjtw3Lyy47y3yYV0A","kid":"mPKrSWBfBGmkuX3kAnf8oA"}],"type":"temporary"}
+https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_67ab8140d8408152166c2c70_1739965683690.png" group-title="",DFB Play TV 🇩🇪
+https://daiconnect.com/live/hls/tvup/tvfy-dfbplay/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB17&content_genre=Sports&language=es&rating=TV-G
