@@ -1411,8 +1411,6 @@ https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/am
 #KODIPROP:inputstream.adaptive.license_key=9b9f674aca77e6e2d9e087d744ef9518:9c79efe8f7510efe6a768ac4be5f93ff
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONEMX_HD)/manifest.mpd
 
-#EXTM3U
-
 #EXTINF:-1 tvg-id="SporTVBR" tvg-name="SporTV BR" tvg-logo="" group-title="SPORTS",SporTV BR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1474,6 +1472,3 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/yfsmgtnygz/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ftBraQjtw3Lyy47y3yYV0A","kid":"mPKrSWBfBGmkuX3kAnf8oA"}],"type":"temporary"}
 https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR
-
-#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_67ab8140d8408152166c2c70_1739965683690.png" group-title="",DFB Play TV 🇩🇪
-https://daiconnect.com/live/hls/tvup/tvfy-dfbplay/.m3u8?ApPW=[playerWidth]&ApPH=[playerHeight]&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]&tvfy_env=[tivify_env]&lmt=[lmt]&ic=IAB17&content_genre=Sports&language=es&rating=TV-G
