@@ -1481,34 +1481,33 @@ https://a164aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/hlk
 #EXTINF:-1,Now 90s
 https://amg01076-amg01076c19-lg-it-10329.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-lgit/playlist.m3u8
 
-#EXTINF:-1 group-title="AUSTRIA",ORF 2 🇦🇹
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="https://example.com/orf2.png" group-title="AUSTRIA",ORF 2 🇦🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=U3z0kcn2bDudnsztKeBUiC6ljwbUfP%2FKZ1W43iWliz6dh4cCd3E9Oqe8FFnWJtDrOACX%2FJvAF95KD0MLOsa1Z%2FfG%2FoeDGAk6zHIOsTbK57eKcFr5n806xluMEzkElLdxMnPniQ6ouTRSBi1ZUioWXZBolcHMNdWL8%2FDjJ51vzs79gsWYVhhKBQWePRZny0sXCnj8o2BxNMmmS%2F0KBfjlRpsjzDwnDJeNmEtGEDOs0gOC75y47h04wzITLc%2Bb%2FcHc|Content-Type=application/octet-stream|R{SSM}|
 https://orf2.mdn.ors.at/orf/orf2/drmqxa/manifest.mpd
 
-#EXTINF:-1 group-title="AUSTRIA",ORF 2 OÖ 🇦🇹
+#EXTINF:-1 tvg-id="ORF2OOE.at" tvg-name="ORF 2 OÖ" tvg-logo="https://example.com/orf2ooe.png" group-title="AUSTRIA",ORF 2 OÖ 🇦🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=U3z0kcn2bDudnsztKeBUiC6ljwbUfP%2FKZ1W43iWliz6dh4cCd3E9Oqe8FFnWJtDrOACX%2FJvAF95KD0MLOsa1Z%2FfG%2FoeDGAk6zHIOsTbK57eKcFr5n806xluMEzkElLdxMnPniQ6ouTRSBi1ZUioWXZBolcHMNdWL8%2FDjJ51vzs79gsWYVhhKBQWePRZny0sXCnj8o2BxNMmmS%2F0KBfjlRpsjzDwnDJeNmEtGEDOs0gOC75y47h04wzITLc%2Bb%2FcHc|Content-Type=application/octet-stream|R{SSM}|
 https://orf2ooe.mdn.ors.at/orf/orf2ooe/drmqxa/manifest.mpd
 
-#EXTINF:-1 group-title="AUSTRIA",ORF III Kultur und Information 🇦🇹
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF III" tvg-logo="https://example.com/orf3.png" group-title="AUSTRIA",ORF III Kultur und Information 🇦🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=U3z0kcn2bDudnsztKeBUiC6ljwbUfP%2FKZ1W43iWliz6dh4cCd3E9Oqe8FFnWJtDrOACX%2FJvAF95KD0MLOsa1Z%2FfG%2FoeDGAk6zHIOsTbK57eKcFr5n806xluMEzkElLdxMnPniQ6ouTRSBi1ZUioWXZBolcHMNdWL8%2FDjJ51vzs79gsWYVhhKBQWePRZny0sXCnj8o2BxNMmmS%2F0KBfjlRpsjzDwnDJeNmEtGEDOs0gOC75y47h04wzITLc%2Bb%2FcHc|Content-Type=application/octet-stream|R{SSM}|
 https://orf3.mdn.ors.at/orf/orf3/qxb/manifest.mpd
 
-#EXTINF:-1 group-title="AUSTRIA",ORF Sport+ 🇦🇹
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport+" tvg-logo="https://example.com/orfsport.png" group-title="AUSTRIA",ORF Sport+ 🇦🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=U3z0kcn2bDudnsztKeBUiC6ljwbUfP%2FKZ1W43iWliz6dh4cCd3E9Oqe8FFnWJtDrOACX%2FJvAF95KD0MLOsa1Z%2FfG%2FoeDGAk6zHIOsTbK57eKcFr5n806xluMEzkElLdxMnPniQ6ouTRSBi1ZUioWXZBolcHMNdWL8%2FDjJ51vzs79gsWYVhhKBQWePRZny0sXCnj8o2BxNMmmS%2F0KBfjlRpsjzDwnDJeNmEtGEDOs0gOC75y47h04wzITLc%2Bb%2FcHc|Content-Type=application/octet-stream|R{SSM}|
 https://orfs.mdn.ors.at/orf/orfs/drmqxa/manifest.mpd
 
-#EXTINF:-1 tvg-id="Playboy.us" tvg-name="Playboy" group-logo="https://i.imgur.com/lrydkMd.png" parent-code="0217" tvg-logo="https://i.imgur.com/FC9AdGR_d.png" group-title="Adult",Playboy TV
+#EXTINF:-1 tvg-id="Playboy.us" tvg-name="Playboy TV" tvg-logo="https://i.imgur.com/FC9AdGR_d.png" group-title="Adult",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
