@@ -24,6 +24,8 @@ https://live.shoq.com.pk/live/eds/Dunya_News/DASH/Dunya_News.mpd
 #KODIPROP:inputstream.adaptive.license_key=b1c67ca001fd4c7d72ea38291d0c36ea:8b1462cce1f9e03305d7d6df3409cb6b
 https://live.shoq.com.pk/live/eds/Hum_News/DASH/Hum_News.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/aljazeera-en.svg" group-title="Live", Al Jazeera
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002ec9244b1a567f067a178080b524fc:e014d86befba726e16106bd467c9a36c
 https://live.shoq.com.pk/live/eds/Aljazeera/DASH/Aljazeera.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/92-News-HD.svg" group-title="Live", 92 News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,8 +92,12 @@ https://live.shoq.com.pk/live/eds/Capital_TV/DASH/Capital_TV.mpd
 #KODIPROP:inputstream.adaptive.license_key=df21052e01f72a3d2afb26d921b268a3:f56a59741bee6163e0b98215ba9ab8e7
 https://live.shoq.com.pk/live/eds/Lahore_Rang/DASH/Lahore_Rang.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/gtv.svg" group-title="Live", GTV News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0fa5ffd31dd704552ba83c5275fcc3c0:73ba9fa325fe5e3b4f597820fc0eb194
 https://live.shoq.com.pk/live/eds/GTV/DASH/GTV.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/abn-news.svg" group-title="Live", ABN News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ae80de93d0309a41515e3fe65811760:9e39e83c728a12ff4403797224b8197d
 https://live.shoq.com.pk/live/eds/ABN_News/DASH/ABN_News.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/sun-news.svg" group-title="Live", Sun News
 https://live.shoq.com.pk/live/eds/Sun_News/DASH/Sun_News.mpd
@@ -108,10 +114,16 @@ https://live.shoq.com.pk/live/eds/BBC_First/DASH/BBC_First.mpd
 #KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
 https://live.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/mbc-max.svg" group-title="Live", MBC Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b327dfc1e089c3fc7a7a3e4f56747b89:f527fa71813ffc13a6e3e3775c88c1ff
 https://live.shoq.com.pk/live/eds/MBCMAX/DASH/MBCMAX.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/mbc-action.svg" group-title="Live", MBC Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d3efa61d43ce45f74faaae5fb448ff1:4ea8aa5e8e352ecdc18e58f7f1849706
 https://live.shoq.com.pk/live/eds/MBC_Action/DASH/MBC_Action.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/mbc2.svg" group-title="Live", MBC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d5c58776940655fceaab7a9d3c9935a:5736da381434f498affafd5028940d0b
 https://live.shoq.com.pk/live/eds/MBC2/DASH/MBC2.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/filmax.svg" group-title="Live", Filmax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -270,4 +282,5 @@ https://live.shoq.com.pk/live/eds/ChampionTV/DASH/ChampionTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=d681a46645400e0d78560f86ada16d28:29af029d5f97c3129549a3fd853a2fe6
 https://live.shoq.com.pk/live/eds/Alief_TV/DASH/Alief_TV.mpd
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/afghantv.svg" group-title="Live", Afghan TV
+
 https://live.shoq.com.pk/live/eds/Afghan_TV/DASH/Afghan_TV.mpd
