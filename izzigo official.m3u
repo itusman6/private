@@ -1490,3 +1490,36 @@ https://orf3.mdn.ors.at/orf/orf3/qxb/manifest.mpd
 
 #EXTINF:-1 tvg-id="Playboy.us" tvg-name="Playboy TV" tvg-logo="https://i.imgur.com/FC9AdGR_d.png" group-title="Adult",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1,HBO HD
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1,HBO HITS
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1,HBO SIGNATURE
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1,HBO FAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1,CINEMAX
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1,ROCK ACTION
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+
+#EXTINF:-1,ROCK ENTERTAINMENT
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+
+#EXTINF:-1,THRILL
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+#EXTINF:-1,AXN
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1,HITS NOW
+https://cdn10jtedge.indihometv.com/atm/DASH/hitsnow/manifest.mpd
+
+#EXTINF:-1,Studio Universal
+https://cdn10jtedge.indihometv.com/atm/DASH/studiouniversal/manifest.mpd
