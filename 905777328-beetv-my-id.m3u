@@ -1,7 +1,4 @@
-#EXTM3U
-#EXTINF
-url-tvg="
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 #EXTINF:-1
 tvg-logo="https://beetv.my.id/logo/timnas.png" group-title="⚽ Live Event", TimNas Day 1
@@ -6076,3 +6073,4 @@ http://103.71.191.168/8910/hls/live.stream.m3u8
 #EXTINF:-1
 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Sleman Kali Krasak
 http://103.71.191.168/8893/hls/live.stream.m3u8
+
