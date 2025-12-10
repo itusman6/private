@@ -2051,7 +2051,7 @@ http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o4fZU2M.png" group-title="Adult",SunBeach TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-tennis.png",TV4 Tennis 🇸🇪
+#EXTINF:-1 tvg-id="" tvg-name="TV4 Tennis SE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-tennis.png" group-title="Sports",TV4 Tennis 🇸🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lXsyUI/srxp/hC6dibx1Nw","kid":"vTKtYI6MNTaNuwrL+pTY4A"}],"type":"temporary"}
