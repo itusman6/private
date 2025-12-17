@@ -1,0 +1,191 @@
+#EXTM3U
+
+#EXTINF:-1, NBC News Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002068abf577c8d929c7f9954381d2c7:0b867154899ea5f9e0175cc0a3c794cc
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc102s5icf)/master.mpd
+
+#EXTINF:-1, NBC Sports Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTINF:-1, Dateline 24/7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc112xzr75)/master.mpd
+
+#EXTINF:-1, Law & Crime Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208908ec8a9e825da84e452eeaf5c5:6e08fee4b73c0ba921a5a48616b03992
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1349acq4)/master.mpd
+
+#EXTINF:-1, Court TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00203dc06bcc0b6e1e69f8a8ca14f3c2:ba4e45fca94a9395e04a3d9db8730776
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc149im9bk)/master.mpd
+
+#EXTINF:-1, Court TV: Legendary Trials
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00206e511cc5640ba7b12676ee4d81df:8b17ddba7ba80ee5081e1e73ebc96644
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc150k2ych)/master.mpd
+
+#EXTINF:-1, That 70s Show
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020441738b197a02c0e5cd63df71fd8:5ebcc56b9cd51e6f4fbbb28990dff3ab
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc110k6s0r)/master.mpd
+
+#EXTINF:-1, SNL Vault
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020114fe7af66d3597d3142118ba726:9f0a93a10317ad6a13d9ff9d0ce3c6de
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc103ce13q)/master.mpd
+
+#EXTINF:-1, ION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00200f2b0447b547fb1b0c6dceced368:cc6abaf977ee3b57af47c0b827c46252
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc146ks95h)/master.mpd
+
+#EXTINF:-1, ION Mystery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d9302eaa7da37cafdf012333fff5:e7cd35e9714b11b4adea43a9afb81a7e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc147hd3uf)/master.mpd
+
+#EXTINF:-1, Family Feud Steve Harvey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00202e298388d9d93da3bbbd337ba2f0:6e1d28c8f55aeb67144b124986fce2f9
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc130gttyz)/master.mpd
+
+#EXTINF:-1, Game Show Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020459629e23e6bc4d4aba7d80f1dc4:40e43e997416300bfc994a2dc4569071
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc128yu3oj)/master.mpd
+
+#EXTINF:-1, Bounce TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020be65dd90ab281b375273a8926a8b:e26803afeca07c15222bbebcf6d08519
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc148u2bs1)/master.mpd
+
+#EXTINF:-1, Ebony TV by Lionsgate
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002083222fa01db25a4b6f65cde392c9:91beeda772761db6581741b10b82c827
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc13843l4l)/master.mpd
+
+#EXTINF:-1, Circle Country
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00201afe2ce399852cd0c29a3c215ac8:f8e352189a5fc42e076e88c7be472426
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc125fnbp0)/master.mpd
+
+#EXTINF:-1, MovieSphere by Lionsgate
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020283ab8e5d2f36f3652f7c2338c57:b02e021c2d46c4ecf4214e239eb4b0e4
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc137ld1mh)/master.mpd
+
+#EXTINF:-1, TODAY All Day
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020e4c3c187f99f1fe2b04aa1f4a822:8dd21fef13cf1ee44c86e5e0636d9d81
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc120ri5pb)/master.mpd
+
+#EXTINF:-1, Sky News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020c13c3690d99ce5dbe3ea50725afb:c432e72a86293d935174b1144290bde7
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc103ow4ej)/master.mpd
+
+#EXTINF:-1, Scripps News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d6046ba27c1b194121e7f4e75734:49e3a6512f8949e3d11ee6f405dbe62a
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc151ed73m)/master.mpd
+
+#EXTINF:-1, NFL Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
+
+#EXTINF:-1, Premier League TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1, WWE Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc106wh3yw)/master.mpd
+
+#EXTINF:-1, Team USA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020caf877f76b8c7775ffc47f189832:dcab0c4bd6e6982d736c93d737e181da
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1140iamg)/master.mpd
+
+#EXTINF:-1, This Old House
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020a0d619f477cebf6ead8dce2ca663:f7956505953f8d205bd115d81ba60938
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1171rbo9)/master.mpd
+
+#EXTINF:-1, NBC LX Home
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020a9dd35db0d63bc03e2d10bb46d58:a49b35665fee8b7e16eb366d8ef9c276
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1051jtk0)/master.mpd
+
+#EXTINF:-1, Nosey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00209d759e643e8d4b0dafa5c9937eaa:88c91f003f8cd5cc6502489f9b139133
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc13333fsc)/master.mpd
+
+#EXTINF:-1, Confess by Nosey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020ff1bb25785a5f99720c82dbc6115:d657d77fcf20ad2dafa7ea6dac4c578b
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1061vjor)/master.mpd
+
+#EXTINF:-1, Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020e77e0f75070a0b504fa69f65e3b7:cec1b5e92b8358141585e66775184ab7
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc135mf424)/master.mpd
+
+#EXTINF:-1, Top Gear
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020a49a0d48d25362f30057e72f0b4a:86abf8c2a6f693a958c6492bef11ee81
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf)/master.mpd
+
+#EXTINF:-1, Ghost Hunters Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00203ffc3dd556b6fa75245f235758eb:4d738f2d8ed3b6ede907b59bd7adbf99
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1397yzck)/master.mpd
+
+#EXTINF:-1, Telemundo Al Dia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020c328ae1c2bf1e151affe5d35150a:10b555c34cc053ade7ddf4095d2dcfd4
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc127fxuqc)/master.mpd
+
+#EXTINF:-1, NBC Boston News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00202c6831e237d2b815d33c2012aae6:3b0a954dd06f625d7d8b0596e74884f3
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc108c4guk)/master.mpd
+
+#EXTINF:-1, NBC Chicago News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002082bbeba36536625edbabc33308b9:0bd9923f10901ec2ab5d360ee4132663
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc121nd4w6)/master.mpd
+
+#EXTINF:-1, NBC Los Angeles News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020a5d68dee53a89a127355a14a68ce:9d68d133e940e61656b051a6ac260201
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc116wxfpw)/master.mpd
+
+#EXTINF:-1, NBC New York News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002057c016e213dea0e08129e7210657:09bf792a01ba6f70a196b51550c8c146
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc1126fksa)/master.mpd
+
+#EXTINF:-1, NBC Philadelphia News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002041cbc7b2c011d0d62c4625a7cca5:8fbf83582a2f4a5af25e827e1d0372e6
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc120ewbm0)/master.mpd
+
+#EXTINF:-1, NBC South Florida News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00205952f36ce7ca3cd62483a012be86:6144038dcddbaf105c8494ca6d9fcf28
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc129a7cya)/master.mpd
+
+#EXTINF:-1, News 12 New York
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00200ef2c3f788f578997c98c3bec3a6:94d55f6f6b786890b628802c9155ddcf
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc126u3z3x)/master.mpd
