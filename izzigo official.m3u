@@ -2184,39 +2184,3 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-04-prd-r-v2/dash-c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e3977c581333101a527776030e5d379:f726e9c49a640e932ec6a92685153772
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Live", Sportsnet 360
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fd183d6100b356c85774c2c25c67617:e5faf9dc1a2fdb932f2107723eb3a8a2
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Live", Sportsnet East
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc9b27a8c3063157b063c1bc66df12c3:26da5dbe8d31dc1c5ecb91553e0ba8b2
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Live", Sportsnet One
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39b99ac1c1f2395da7e80cc1c444233c:bb9dcb4839c77026848816f97a977933
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Live", Sportsnet Ontario
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa614490ad95392e98e835e15f89843d:fabf4188550a3573ec0a466ed78c3a58
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Live", Sportsnet Pacific
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c152ceb534a9352c87fe7aabe50ef066:59c93e41b710f1b364aec8546e4d0bbd
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-04-prd-r-v2/dash-ch-04-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Live", Sportsnet West
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b158aa9c542b3b6bab6afaa973950b58:970cb028b91c10faa71f160f9d3c0d9a
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Live", Sportsnet World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5fc41cbbdc8358e99a2cfdcbf4e6a08:b2cc93128c79039bebfaf7f6d0af1c21
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
-
