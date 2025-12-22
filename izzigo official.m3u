@@ -2285,9 +2285,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 #EXTINF:-1 tvg-logo="" group-title="Live", Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Live", Cartoon Channel PH
-https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Live", Viva One Movie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=857bf83943f66dc20c69f2708139d804:0b835a9e8659df574afb92b9cbe76e41
@@ -2297,11 +2294,6 @@ https://cdnone.vivamax.net/video/P02237_FF_FM_MECHANIC RESURRECTION/dash/hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=590d41f273cd4a2a87634e2248570974:071b942bfdb44a396f40d7a6ab9c6b75
 https://bvclive1.boldmss.com/TYC_SPORTS/TYC_SPORTS_BVC.isml/TYC_SPORTS.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Live", Fox Sports 1 Comcast
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5c26cc92bdeb2f59224e435d8a42e37:f865bb7782fcfe6dd8e9f59d7c7190a2
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/FS1HD_HD_TVE_24912_0_6246274961726988163.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Live", Willow Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
