@@ -2324,3 +2324,24 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/irtfdsri14/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real Madrid TV.png" group-title="",Real Madrid TV 🇪🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lC0X9oGS6jTW8R73Td0ywQ","kid":"lPKVtGJ6o0kYEFkWZKF4qw"}],"type":"temporary"}
+https://requestrouter3.cdn.agiletv....almadridTV_HD_B/__op/dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Surf Channel.png" group-title="",Surf Channel TV 🇪🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCZHxLq8Cpdf6x5wng5Z+w","kid":"KI7uMYt2aHC5ojreN6i9NA"}],"type":"temporary"}
+https://requestrouter3.cdn.agiletv..../Surfchannel_HD/__op/dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="HIT TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HIT TV.png" group-title="",Hit TV 🇪🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x47za/mTotLGZBk8i2DS8A","kid":"of0fPHHDJWddFcFdG4MH3g"}],"type":"temporary"}
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/HIT_TV_HD_B/__op/dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="FIFA+.tv" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/2560px-FIFA%2B_%282025%29.svg.png" group-title="Sports",FIFA+
+https://ca333c39.wurl.com/v1/sysdata_s_p_a_fifa_6/ohlscdn_us/latest/main/hls/playlist.m3u8
