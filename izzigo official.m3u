@@ -2327,3 +2327,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mttgh1c4ei/o
 
 #EXTINF:-1 tvg-id="FIFA+.tv" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/2560px-FIFA%2B_%282025%29.svg.png" group-title="Sports",FIFA+
 https://ca333c39.wurl.com/v1/sysdata_s_p_a_fifa_6/ohlscdn_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Live", Documentary+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db88b42a45592980e83611f44655c14:a584b73d741791c277c38f8d3f85e5a5
+https://emt-fastly.live.pv-cdn.net/CMH/98453b7d9a16472baf6adf2d2b16cf78/v1/dash/590183725645/imdb_frequency_amzn1_dv_live_csid_eb0fbdee-7b14-4abc-9c54-5c91598376b1_us-east-1_cmh_dash_h264_none_stereo/live/clients/dash-sd/enc/7zircitq1g/out/v1/a4909d899f31429aafdcffe3efc8319c/cenc-sd.mpd?aws.sessionId=072d7fdc-d1e3-4898-9b06-0fae62718481&amznDtid=AOAGZA014O5RE&encoding=segmentBase
