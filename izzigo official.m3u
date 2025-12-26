@@ -2350,8 +2350,35 @@ https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" group-title="Movies",Hallmark Movies & More
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MSNBC_logo_2019.svg/512px-MSNBC_logo_2019.svg.png" group-title="News",MSNBC (720p)
+#EXTINF:-1,BLOOMBERG
+http://41.205.93.154/BLOOMBERG/index.m3u8
+
+#EXTINF:-1,BRAVO
+http://41.205.93.154/BRAVO/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://41.205.93.154/DISCOVERY/index.m3u8
+
+#EXTINF:-1,ESPN U
+http://41.205.93.154/ESPNU/index.m3u8
+
+#EXTINF:-1,LIFETIME
+http://41.205.93.154/LIFETIME/index.m3u8
+
+#EXTINF:-1,MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
+
+#EXTINF:-1,NICKTOONS
+http://41.205.93.154/NICKTOONS/index.m3u8
+
+#EXTINF:-1,SYFY
+http://41.205.93.154/SYFY/index.m3u8
+
+#EXTINF:-1,TBS
+http://41.205.93.154/TBS/index.m3u8
+
+#EXTINF:-1,WWE
+http://41.205.93.154/WWE/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",NBC East
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
