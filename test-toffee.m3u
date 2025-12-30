@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="TOFFEE Sports VIP" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="LIVE",TOFFEE Sports VIP
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTVLCOPT:http-referrer=https://bldcmprod-cdn.toffeelive.com/
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1767295157:KeyName=prod_linear:Signature=WMkuhPw5oDzAYWNnX9FTX234HbAPFHP2qaaXXjLTzY7jp8E3wWYXuu8Wi9_L4u37c81mGZGcdFMFJhbCUGy2DQ
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
