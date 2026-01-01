@@ -1,6 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Sky Sports News UK" tvg-logo="https://placehold.co/400x400/EBEBEB/000000?font=poppins&text=TV" group-title="",Sky Sports News UK
-#EXTVLCOPT:http-origin=https://tflix.live
 #EXTVLCOPT:http-referrer=https://tflix.live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://drmstream.online/topembed/live.m3u8?id=SkySportsNews[UK]&vtoken=&format=.m3u8
